@@ -19,3 +19,6 @@ Spring-data-redis Sentinel配置：<br/>
 http://blog.csdn.net/qq_34021712/article/details/75949706<br/>
 Redis主从集群的Sentinel配置(包括主从集群及其Sentinel集群):<br/>
 http://www.cnblogs.com/LiZhiW/p/4851631.html<br/>
+<br/>
+spring整合redis(集群、主从)<br/>
+http://blog.csdn.net/sunqingzhong44/article/details/70976038?locationNum=6&fps=1<br/>

@@ -5,8 +5,11 @@ Ehcache纯Java缓存框架：<br/>
 http://blog.csdn.net/jingqiang521/article/details/48175977<br/>
 http://raychase.iteye.com/blog/1545906<br/>
 <br/>
-Redis与spring-data-redis整合：<br/>
+Redis与spring-data-redis整合(版本比较老的啦，spring-data-redis1.0.x, Jedis2.1.x)：<br/>
 http://www.cnblogs.com/tankaixiong/p/3660075.html<br/>
+Redis3.0与Jedis2.7.2 客户端与Spring整合:<br/>
+http://blog.csdn.net/centre10/article/details/50761815<br/>
+
 <br/>
 Redis与Ehcache的比较：<br/>
 http://blog.csdn.net/shenbushen/article/details/52140078<br/>
@@ -22,3 +25,5 @@ http://www.cnblogs.com/LiZhiW/p/4851631.html<br/>
 <br/>
 spring整合redis(集群、主从)<br/>
 http://blog.csdn.net/sunqingzhong44/article/details/70976038?locationNum=6&fps=1<br/>
+
+

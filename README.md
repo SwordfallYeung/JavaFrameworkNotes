@@ -7,7 +7,6 @@ http://raychase.iteye.com/blog/1545906<br/>
 <br/>
 Redis与spring-data-redis整合：<br/>
 http://www.cnblogs.com/tankaixiong/p/3660075.html<br/>
-http://blog.csdn.net/qq_34021712/article/details/75949706<br/>
 <br/>
 Redis与Ehcache的比较：<br/>
 http://blog.csdn.net/shenbushen/article/details/52140078<br/>
@@ -15,3 +14,8 @@ http://blog.csdn.net/shenbushen/article/details/52140078<br/>
 Redis集群部署：<br/>
 Linux:http://www.cnblogs.com/wuxl360/p/5920330.html<br/>
 Windows: http://www.cnblogs.com/wujixiong/p/6816883.html<br/>
+<br/>
+Spring-data-redis Sentinel配置：<br/>
+http://blog.csdn.net/qq_34021712/article/details/75949706<br/>
+Redis主从集群的Sentinel配置:<br/>
+http://www.cnblogs.com/LiZhiW/p/4851631.html<br/>

@@ -17,5 +17,5 @@ Windows: http://www.cnblogs.com/wujixiong/p/6816883.html<br/>
 <br/>
 Spring-data-redis Sentinel配置：<br/>
 http://blog.csdn.net/qq_34021712/article/details/75949706<br/>
-Redis主从集群的Sentinel配置:<br/>
+Redis主从集群的Sentinel配置(包括主从集群及其Sentinel集群):<br/>
 http://www.cnblogs.com/LiZhiW/p/4851631.html<br/>

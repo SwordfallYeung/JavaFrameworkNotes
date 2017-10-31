@@ -11,6 +11,8 @@ Redis3.0与Jedis2.7.2 客户端与Spring整合:<br/>
 http://blog.csdn.net/centre10/article/details/50761815<br/>
 
 <br/>
+Redis、Ehcache、Memcached三个缓存框架：<br/>
+<br/>
 Redis与Ehcache的比较：<br/>
 http://blog.csdn.net/shenbushen/article/details/52140078<br/>
 <br/>
@@ -25,5 +27,9 @@ http://www.cnblogs.com/LiZhiW/p/4851631.html<br/>
 <br/>
 spring整合redis(集群、主从)<br/>
 http://blog.csdn.net/sunqingzhong44/article/details/70976038?locationNum=6&fps=1<br/>
-
+<br/>
+Memcached安装：<br/>
+http://blog.csdn.net/l1028386804/article/details/61417166<br/>
+Memcached学习：<br/>
+http://www.runoob.com/memcached/memcached-connection.html<br/>
 

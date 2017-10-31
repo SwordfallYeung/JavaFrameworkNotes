@@ -32,4 +32,7 @@ Memcached安装：<br/>
 http://blog.csdn.net/l1028386804/article/details/61417166<br/>
 Memcached学习：<br/>
 http://www.runoob.com/memcached/memcached-connection.html<br/>
+<br/>
+Dubbo框架：<br/>
+http://blog.csdn.net/u013142781/article/details/50387583<br/>
 

@@ -38,6 +38,6 @@ http://blog.csdn.net/u013142781/article/details/50387583<br/>
 <br/>
 IDEA jar打包方式（项目和第三方jar一起打包）：<br/>
 https://www.cnblogs.com/qifengshi/p/6036870.html<br/>
-
+http://blog.csdn.net/maozhaoyuan/article/details/52699404<br/>
 
 

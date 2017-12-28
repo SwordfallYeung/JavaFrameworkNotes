@@ -42,4 +42,7 @@ http://blog.csdn.net/maozhaoyuan/article/details/52699404<br/>
 <br/>
 Flume学习博客:<br/>
 http://blog.csdn.net/xiao_jun_0820/article/category/2399621<br/>
+<br/>
+PostgresSql数据库相关命令操作：<br/>
+https://zhidao.baidu.com/question/524250277168850725.html<br/>
 

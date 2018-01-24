@@ -48,3 +48,6 @@ https://zhidao.baidu.com/question/524250277168850725.html<br/>
 <br/>
 Java实时监控FTP文件变化
 https://www.cnblogs.com/duelsol/archive/2013/03/14/2959146.html<br/>
+<br/>
+如何运行Jar文件里面main方法：<br/>
+http://blog.csdn.net/shymi1991/article/details/50540214<br/>

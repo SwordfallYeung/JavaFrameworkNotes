@@ -45,6 +45,8 @@ http://blog.csdn.net/xiao_jun_0820/article/category/2399621<br/>
 <br/>
 PostgresSql数据库相关命令操作：<br/>
 https://zhidao.baidu.com/question/524250277168850725.html<br/>
+增加主键等https://www.cnblogs.com/alianbog/p/5598251.html<br/>
+修改表的字段类型http://blog.csdn.net/cdnight/article/details/20281113<br/>
 <br/>
 Java实时监控FTP文件变化
 https://www.cnblogs.com/duelsol/archive/2013/03/14/2959146.html<br/>

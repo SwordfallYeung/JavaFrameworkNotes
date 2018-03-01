@@ -56,3 +56,11 @@ http://blog.csdn.net/shymi1991/article/details/50540214<br/>
 <br/>
 apache 所有开源项目:<br/>
 http://archive.apache.org/dist/<br/>
+<br/>
+maven三种打包插件（maven-assembly-plugin，maven-shade-plugin与maven-assembly-plugin）：<br/>
+https://yq.aliyun.com/articles/308777<br/>
+http://blog.csdn.net/defonds/article/details/43233131<br/>
+Maven的几个常用plugin：<br/>
+https://www.cnblogs.com/zhangxh20/p/6298062.html<br/>
+
+

@@ -62,5 +62,7 @@ https://yq.aliyun.com/articles/308777<br/>
 http://blog.csdn.net/defonds/article/details/43233131<br/>
 Maven的几个常用plugin：<br/>
 https://www.cnblogs.com/zhangxh20/p/6298062.html<br/>
-
+<br/>
+Maven插件库:<br/>
+http://maven.apache.org/plugins/index.html<br/>
 

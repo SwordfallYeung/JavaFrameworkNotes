@@ -68,3 +68,6 @@ https://www.cnblogs.com/zhangxh20/p/6298062.html<br/>
 Maven插件库:<br/>
 http://maven.apache.org/plugins/index.html<br/>
 
+使用idea 操作数据库时出现的 中文乱码问题:<br/>
+https://www.cnblogs.com/bb1008/p/7704458.html<br/>
+

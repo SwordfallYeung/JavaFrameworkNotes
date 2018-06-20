@@ -77,3 +77,6 @@ https://www.cnblogs.com/bb1008/p/7704458.html<br/>
 idea自动补全变量名称和属性名称的快捷键：<br/>
 https://www.cnblogs.com/jx17/p/6244504.html<br/>
 
+IntelliJ IDEA如何设置头注释，自定义author和date
+https://www.cnblogs.com/gongxin/p/8034606.html<br/>
+

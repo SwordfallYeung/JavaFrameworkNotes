@@ -83,3 +83,5 @@ https://www.cnblogs.com/gongxin/p/8034606.html<br/>
 数据分析博客：<br/>
 https://blog.growingio.com/<br/>
 
+java jmx远程监控服务器jvm进程的状况出错：<br/>
+参考资料：https://blog.csdn.net/sun_dwl/article/details/79229918

@@ -84,4 +84,11 @@ https://www.cnblogs.com/gongxin/p/8034606.html<br/>
 https://blog.growingio.com/<br/>
 
 java jmx远程监控服务器jvm进程的状况出错：<br/>
-参考资料：https://blog.csdn.net/sun_dwl/article/details/79229918
+>JAVA_OPTS="$JAVA_OPTS
+-Dcom.sun.management.jmxremote
+-Dcom.sun.management.jmxremote.port=9999 
+-Dcom.sun.management.jmxremote.ssl=false 
+-Dcom.sun.management.jmxremote.authenticate=false"
+
+参考资料：https://blog.csdn.net/sun_dwl/article/details/79229918<br/>
+https://www.iteblog.com/archives/1349.html<br/>

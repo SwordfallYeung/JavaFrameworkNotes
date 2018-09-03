@@ -93,6 +93,9 @@ java jmx远程监控服务器jvm进程的状况出错：<br/>
 参考资料：https://blog.csdn.net/sun_dwl/article/details/79229918<br/>
 https://www.iteblog.com/archives/1349.html<br/>
 
+postman是一款网页调试工具，可以发送几乎所有类型的HTTP请求，如Get、Post、Delete等等：<br/>
+https://blog.csdn.net/fxbin123/article/details/80428216
+
 # 数据库选型：
 NoSql数据库：
 >Mongodb

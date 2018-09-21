@@ -96,6 +96,9 @@ https://www.iteblog.com/archives/1349.html<br/>
 postman是一款网页调试工具，可以发送几乎所有类型的HTTP请求，如Get、Post、Delete等等：<br/>
 https://blog.csdn.net/fxbin123/article/details/80428216
 
+java模拟ssh执行shell命令：<br/>
+https://blog.csdn.net/u013144287/article/details/77506334
+
 # 数据库选型：
 NoSql数据库：
 >Mongodb

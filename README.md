@@ -99,6 +99,9 @@ https://blog.csdn.net/fxbin123/article/details/80428216
 java模拟ssh执行shell命令：<br/>
 https://blog.csdn.net/u013144287/article/details/77506334
 
+spring cron定时任务的表达式：0 0/10 * * * 与 0 */10 * * * 的差别 <br/>
+https://blog.csdn.net/u010416101/article/details/80625862
+
 # 数据库选型：
 NoSql数据库：
 >Mongodb

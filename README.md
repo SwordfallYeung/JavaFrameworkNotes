@@ -102,6 +102,12 @@ https://blog.csdn.net/u013144287/article/details/77506334
 spring cron定时任务的表达式：0 0/10 * * * 与 0 */10 * * * 的差别 <br/>
 https://blog.csdn.net/u010416101/article/details/80625862
 
+Java truelicense的运用与整合项目:<br/>
+https://blog.csdn.net/qq_27499099/article/details/71566000<br/>
+https://www.cnblogs.com/rsty/p/9126819.html<br/>
+https://blog.csdn.net/jingshuaizh/article/details/44461289<br/>
+http://www.liuhaihua.cn/archives/527084.html<br/>
+
 # 数据库选型：
 NoSql数据库：
 >Mongodb

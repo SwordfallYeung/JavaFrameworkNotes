@@ -3,7 +3,7 @@
 ### 5种单例模式
 1) 单线程，不加锁的懒汉式（不好）
 > public class Singleton{<br/>
-　　private static Singleton instance = null;<br/>
+    private static Singleton instance = null;<br/>
   　private Singleton(){<br/>
 　　}<br/>
   　public static Singleton getInstance(){<br/>

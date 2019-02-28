@@ -108,6 +108,10 @@ https://www.cnblogs.com/rsty/p/9126819.html<br/>
 https://blog.csdn.net/jingshuaizh/article/details/44461289<br/>
 http://www.liuhaihua.cn/archives/527084.html<br/>
 
+Java 远程调用和本地调用：<br/>
+https://www.cnblogs.com/ontway/p/7455249.html<br/>
+https://www.jb51.net/article/105129.htm<br/>
+
 # 数据库选型：
 NoSql数据库：
 >Mongodb

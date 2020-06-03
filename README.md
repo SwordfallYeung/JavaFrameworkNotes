@@ -53,7 +53,7 @@ https://www.cnblogs.com/duelsol/archive/2013/03/14/2959146.html<br/>
 如何运行Jar文件里面main方法：<br/>
 http://blog.csdn.net/shymi1991/article/details/50540214<br/>
 
-如何运行Jar包：<br/>
+如何运行Jar包，需要有main manifest attribute文件：<br/>
 java -jar my-rpc-2.0.jar 127.0.0.1 8888
 
 <b>在linux下如何运行带有第三方jar的Jar程序<b/>：<br/>
